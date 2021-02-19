@@ -1,4 +1,4 @@
-comandos git para crear repositorio
+﻿comandos git para crear repositorio
 1. git init
 2. git add .
 3. git commit -m "Tareas Programación"
@@ -10,4 +10,10 @@ https://github.com/EderLaraTrujillo/example
 comando para agregar repositorio
 1. git add *
 2. git commit -m "Adicion ...."
+3. git push
+
+comando para agregar o borrar
+
+1. git add *
+2. git commit -m "adicion y borrado" o "borrado..."
 3. git push
