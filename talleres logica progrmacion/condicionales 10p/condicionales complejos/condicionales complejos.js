@@ -65,10 +65,7 @@ var pagosex2
 
 const limith = 40
 
-if (horastra> ) {
-    operacion=(horasex1*2)
-    
-}
+
 
 
 
